@@ -1,0 +1,7 @@
+{
+    "publish_date": "Aug 6 2014 09:10:23 GMT-0800 (PST)",
+    "module_name": "qs",
+    "vulnerable_versions": "<1.0.0",
+    "patched_versions": ">= 1.x",
+    "severity": ""   
+}

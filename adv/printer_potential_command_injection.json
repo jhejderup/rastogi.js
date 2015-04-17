@@ -1,0 +1,7 @@
+{
+    "publish_date": "Tue Mar 06 2014 09:33:48 GMT-0800 (PST)",
+    "module_name": "printer",
+    "vulnerable_versions": "<= 0.0.1",
+    "patched_versions": "> 0.0.1",
+    "severity": ""   
+}

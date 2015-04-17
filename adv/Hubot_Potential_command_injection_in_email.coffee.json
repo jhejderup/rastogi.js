@@ -1,0 +1,7 @@
+{
+    "publish_date": "2013-05-15T22:14:38.178Z",
+    "module_name": "hubot-scripts",
+    "vulnerable_versions": "<= 2.4.3",
+    "patched_versions": "> 2.4.3",
+    "severity": "high"   
+}

@@ -1,0 +1,7 @@
+{
+    "publish_date": "Fri Jul 05 2013 12:29:10 GMT-0700 (PDT)",
+    "module_name": "validator",
+    "vulnerable_versions": "<1.1.0",
+    "patched_versions": ">=1.1.0",
+    "severity": ""   
+}

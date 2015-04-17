@@ -1,0 +1,7 @@
+{
+    "publish_date": "Tue Feb 04 2014 09:31:34 GMT-0800",
+    "module_name": "libyaml",
+    "vulnerable_versions": "<0.2.3",
+    "patched_versions": ">=0.2.3",
+    "severity": ""   
+}

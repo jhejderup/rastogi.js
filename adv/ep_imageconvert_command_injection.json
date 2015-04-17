@@ -1,0 +1,7 @@
+{
+    "publish_date": "May 06 2013 09:33:48 GMT-0800 (PST)",
+    "module_name": "ep_imageconvert",
+    "vulnerable_versions": "<=0.0.2",
+    "patched_versions": ">=0.0.3",
+    "severity": ""   
+}

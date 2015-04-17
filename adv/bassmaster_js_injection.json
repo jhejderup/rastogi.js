@@ -1,0 +1,7 @@
+{
+    "publish_date": "Sat Sep 27 2014 08:44:48 GMT-0800 (PST)",
+    "module_name": "bassmaster",
+    "vulnerable_versions": "<=1.5.1",
+    "patched_versions": ">=1.5.2",
+    "severity": ""   
+}

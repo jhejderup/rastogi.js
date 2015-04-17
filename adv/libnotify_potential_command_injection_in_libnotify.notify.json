@@ -1,0 +1,7 @@
+{
+    "publish_date": "2013-05-15T22:30:05.853Z",
+    "module_name": "libnotify",
+    "vulnerable_versions": "<= 1.0.3",
+    "patched_versions": ">= 1.0.4",
+    "severity": ""   
+}

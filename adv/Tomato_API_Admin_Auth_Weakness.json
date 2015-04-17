@@ -1,0 +1,7 @@
+{
+    "publish_date": "2013-03-07T21:52:30.192Z",
+    "module_name": "tomato",
+    "vulnerable_versions": "<= 0.0.5",
+    "patched_versions": ">= 0.0.6",
+    "severity": "" 
+}

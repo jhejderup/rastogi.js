@@ -1,0 +1,7 @@
+{
+    "publish_date": "Feb 06 2014 09:33:48 GMT-0800 (PST)",
+    "module_name": "st",
+    "vulnerable_versions": "<0.2.5",
+    "patched_versions": ">=0.2.5",
+    "severity": ""   
+}

@@ -1,0 +1,7 @@
+{
+    "publish_date": "Tue Jul 15 2014 09:33:48 GMT-0800 (PST) ",
+    "module_name": "syntax-error",
+    "vulnerable_versions": "< 1.1.1",
+    "patched_versions": ">= 1.1.1",
+    "severity": ""   
+}

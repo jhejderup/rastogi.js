@@ -1,0 +1,7 @@
+{
+    "publish_date": "Fri Sep 12 2014 08:06:33 GMT-0700 (PDT)",
+    "module_name": "send",
+    "vulnerable_versions": "< 0.8.4",
+    "patched_versions": ">= 0.8.4",
+    "severity": ""   
+}

@@ -1,0 +1,7 @@
+{
+    "publish_date": "Mon Aug 1 2014 09:40:57 GMT-0700 (PST)",
+    "module_name": "crumb",
+    "vulnerable_versions": "<3.0.0",
+    "patched_versions": ">=3.0.0",
+    "severity": ""   
+}

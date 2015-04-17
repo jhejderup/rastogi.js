@@ -1,0 +1,7 @@
+{
+    "publish_date": "2013-06-23T22:23:50.005Z",
+    "module_name": "js-yaml",
+    "vulnerable_versions": "< 2.0.5",
+    "patched_versions": ">= 2.0.5",
+    "severity": "high"   
+}
